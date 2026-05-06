@@ -1,4 +1,4 @@
-# Moldova Fiscal Printer Driver
+# Fiscal Printer Driver
 
 Minimal Laravel/PHP implementation of the FP-Moldova M1 fiscal printer protocol subset.
 
